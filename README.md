@@ -1,4 +1,5 @@
-#Codewars Easy
+Codewars Easy
+
 8 kyu
 
 8 kyu
@@ -23,21 +24,21 @@
 
 8 kyu https://www.codewars.com/kata/fake-binary/javascript
 
-7 kyu [013] - (7_kuy\013_largest-square-inside-a-circle.js) https://www.codewars.com/kata/largest-square-inside-a-circle
+7 kyu [013](7_kuy\013_largest-square-inside-a-circle.js) - https://www.codewars.com/kata/largest-square-inside-a-circle
 
-7 kyu [014] - (7_kuy\014_number-of-decimal-digits.js) https://www.codewars.com/kata/number-of-decimal-digits
+7 kyu [014](7_kuy\014_number-of-decimal-digits.js) - https://www.codewars.com/kata/number-of-decimal-digits
 
-8 kyu [015] - (8_kuy\015_opposite-number.js) https://www.codewars.com/kata/opposite-number
+8 kyu [015](8_kuy\015_opposite-number.js) - https://www.codewars.com/kata/opposite-number
 
-7 kyu [016] - (7_kuy\016_perimeter-sequence.js) https://www.codewars.com/kata/perimeter-sequence
+7 kyu [016](7_kuy\016_perimeter-sequence.js) - https://www.codewars.com/kata/perimeter-sequence
 
-8 kyu [017] - (8_kuy\017_remove-first-and-last-character) https://www.codewars.com/kata/remove-first-and-last-character
+8 kyu [017](8_kuy\017_remove-first-and-last-character) - https://www.codewars.com/kata/remove-first-and-last-character
 
-8 kyu [018] - (8_kuy\018_remove-string-spaces.js) https://www.codewars.com/kata/remove-string-spaces
+8 kyu [018](8_kuy\018_remove-string-spaces.js) - https://www.codewars.com/kata/remove-string-spaces
 
-7 kyu [019] - (7_kuy\019_string-ends-with.js) https://www.codewars.com/kata/string-ends-with
+7 kyu [019](7_kuy\019_string-ends-with.js) - https://www.codewars.com/kata/string-ends-with
 
-8 kyu [020] - (8_kuy\020_simple-multiplication.js) https://www.codewars.com/kata/simple-multiplication
+8 kyu [020](8_kuy\020_simple-multiplication.js) - https://www.codewars.com/kata/simple-multiplication
 
 8 kyu https://www.codewars.com/kata/string-repeat
 8 kyu https://www.codewars.com/kata/students-final-grade
